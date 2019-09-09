@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/IgniosTyumen/rsschool-cv/cv
